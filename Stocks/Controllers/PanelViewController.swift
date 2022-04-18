@@ -1,13 +1,13 @@
 //
-//  TopStoriesNewsViewController.swift
+//  PanelViewController.swift
 //  Stocks
 //
-//  Created by Mitch Andrade on 4/14/22.
+//  Created by Mitch Andrade on 4/18/22.
 //
 
 import UIKit
 
-class TopStoriesNewsViewController: UIViewController {
+class PanelViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
